@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Software Developer
 - 📫 How to reach me gamzebayram90@gmail.com
+- 🔗 https://www.linkedin.com/in/gamzebayram/
 
 <!---
 gamzebayram/gamzebayram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
